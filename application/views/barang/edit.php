@@ -1,6 +1,6 @@
 <div class="content">
     <div class="container-fluid">
-        <div class="content-header">
+        <div class="content-header-btn hide-class">
             <div class="row">
                 <a href="<?= site_url('Barang') ?>" class="btn btn-default">Kembali</a>
             </div>

@@ -1,9 +1,9 @@
 <div class="content">
     <div class="container-fluid">
         <?php echo $this->session->flashdata('messages'); ?>
-        <div class="content-header hide-class">
+        <div class="content-header-btn hide-class">
             <div class="row">
-                <a href="<?= site_url('Barang/add') ?>" class="btn btn-primary">Tambah Barang</a>
+                <a href="<?= site_url('Barang/add') ?>" class="btn btn-primary ">Tambah Barang</a>
             </div>
         </div>
         <div class="content-table">
